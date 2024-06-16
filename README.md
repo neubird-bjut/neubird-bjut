@@ -6,5 +6,5 @@
 
 Chinese homepage: https://yanzhao.bjut.edu.cn/info/1434/11510.htm
 
-Google Scholar: [https://scholar.google.com/Yong Zhang]([https://scholar.google.com/citations?hl=zh-CN&user=y1myk_IAAAAJ&view_op=list_works&sortby=pubdate](https://scholar.google.com/citations?hl=zh-CN&user=y1myk_IAAAAJ&view_op=list_works&sortby=pubdate))
+Google Scholar: [https://scholar.google.com/Yong_Zhang](https://scholar.google.com/citations?hl=zh-CN&user=UAaN_RAAAAAJ&view_op=list_works&authuser=1&gmla=AOAOcb3eWGrHcoywznvRhWT4-apueAWalSHlGm-D_McwD0FznNr48fRaIU3lJhsStUnxVURipjXVZj4JL-q_Y1-HgcXiv8XP4FmPLOCRrkw)
 
