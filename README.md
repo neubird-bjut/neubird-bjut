@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋  
+
+🔭 Dr. Zhang is currently a professor at the School of Information Science and Technology, Beijing Institute of Technology (BIT). He received his B.S. degree from Northeastern University, M.S. degree from Shandong University, and Ph.D. degree from Beijing University of Technology. 
+
+🌱 In recent years, he has been engaged in research work related to artificial intelligence, big data analysis and visualization, graphics and virtual reality simulation, etc. He has published more than 60 high-level academic papers in IEEE Transactions, including TNNLS, TKDE, TBD, T-ITS, TCSS, TCOM. As a project leader, he has presided over more than 30 research projects, including the National Natural Science Foundation of China (NSFC) top-level, NSFC youth, Beijing Natural Science Foundation of China (BNSFC) top-level, and Beijing Science and Technology Program.
 
 <!--
 **neubird-bjut/neubird-bjut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
